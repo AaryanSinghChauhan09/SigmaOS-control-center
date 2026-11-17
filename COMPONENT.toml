@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-control-center"
-description = "SigmaOS subsystem component for control-center"
+description = "Central control centre (modules discover settings)"
 version = "0.1.0"
 tier = 5
 
